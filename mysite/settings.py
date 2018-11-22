@@ -25,7 +25,7 @@ SECRET_KEY = '!2yy(izpk6wdwf-r-#ad0hs!%4+b3q0jo&_1y*+szs=(on^)sv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<espiritrompa>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'espiritrompa.pythonanywhere.com']
 
 
 # Application definition
